@@ -1,6 +1,11 @@
 # awesome-llm-downstream-paper
 A repository for large language model's downstream application papers
 
+## Benchmark
+
+[arXiv 2023]xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval
+[arXiv 2023]CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X
+
 ## Testing
 
 [ISSTA 2023]Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models
