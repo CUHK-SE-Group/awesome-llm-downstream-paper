@@ -1,6 +1,10 @@
 # awesome-llm-downstream-paper
 A repository for large language model's downstream application papers
 
+## Engineering
+
+[arXiv 2023]Teaching Large Language Models to Self-Debug
+
 ## Benchmark
 
 [arXiv 2023]xCodeEval: A Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval
