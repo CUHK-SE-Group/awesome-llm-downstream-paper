@@ -4,6 +4,7 @@ A repository for large language model's downstream application papers
 ## Engineering
 
 [arXiv 2023]Teaching Large Language Models to Self-Debug
+[[arXiv 2023]Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study](https://arxiv.org/abs/2304.07575)
 
 ## Benchmark
 
