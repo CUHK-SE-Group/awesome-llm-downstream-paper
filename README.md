@@ -5,7 +5,7 @@ A repository for large language model's downstream application papers
 
 - [arXiv 2023]Teaching Large Language Models to Self-Debug
 - [[arXiv 2023]Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study](https://arxiv.org/abs/2304.07575)
-- [[arXiv 2023]Self-collaboration Code Generation via ChatGPT]([Self-collaboration Code Generation via ChatGPT](https://arxiv.org/abs/2304.07590))
+- [[arXiv 2023]Self-collaboration Code Generation via ChatGPT](https://arxiv.org/abs/2304.07590)
 
 
 ## Benchmark
