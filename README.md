@@ -5,6 +5,8 @@ A repository for large language model's downstream application papers
 
 - [arXiv 2023]Teaching Large Language Models to Self-Debug
 - [[arXiv 2023]Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study](https://arxiv.org/abs/2304.07575)
+- [[arXiv 2023]Self-collaboration Code Generation via ChatGPT]([Self-collaboration Code Generation via ChatGPT](https://arxiv.org/abs/2304.07590))
+
 
 ## Benchmark
 
@@ -21,6 +23,7 @@ A repository for large language model's downstream application papers
 - [arXiv 2023]Revisiting the Plastic Surgery Hypothesis via Large Language Models
 - [arXiv 2023]Conversational Automated Program Repair
 - [arXiv 2022]Practical Program Repair in the Era of Large Pre-trained Language Models
+- [[ICSE 2023]Impact of Code Language Models on Automated Program Repair](https://arxiv.org/abs/2302.05020)
 
 
 ## Prompt
